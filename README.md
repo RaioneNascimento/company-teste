@@ -21,7 +21,7 @@ Este projeto é uma aplicação fullstack com separação entre front-end e back
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://seu-repositorio.git
+   git clone https://github.com/RaioneNascimento/amaro-teste.git
    cd amaro-teste/frontend
    ```
 
@@ -56,7 +56,7 @@ Este projeto é uma aplicação fullstack com separação entre front-end e back
 1. **Clone o repositório (se ainda não feito):**
 
    ```bash
-   git clone https://seu-repositorio.git
+   git clone https://github.com/RaioneNascimento/amaro-teste.git
    cd amaro-teste/backend
    ```
 
