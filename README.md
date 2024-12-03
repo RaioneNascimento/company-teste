@@ -100,19 +100,26 @@ Este projeto usa Docker Compose para configurar e orquestrar os containers para 
 
 1. **Subir os containers:**
 
-   Para iniciar todos os containers com Docker Compose, use o comando na raiz do backent `amaro-teste/backend`:
+   Para iniciar todos os containers com Docker Compose, use o comando na raiz do backend `amaro-teste/backend`:
 
    ```bash
    docker-compose up
    ```
+2. **Executar migrations:**
 
-2. **Acessar a aplicação:**
+   Para rodar as migrations é necessário estar na pasta raiz do backend `amaro-teste/backend`:
+   
+   ```bash
+   npx prisma migrate dev  
+   ```
+
+3. **Acessar a aplicação:**
 
    - O front-end estará disponível em [http://localhost:5173](http://localhost:5173).
    - O back-end estará disponível em [http://localhost:3333](http://localhost:3333).
    - A documentação da API estará disponível em [http://localhost:3333/api](http://localhost:3333/api).
 
-3. **Parar os containers:**
+4. **Parar os containers:**
 
    Para parar os containers, execute:
 
