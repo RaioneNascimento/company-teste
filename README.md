@@ -10,6 +10,11 @@ Este projeto é uma aplicação fullstack com separação entre front-end e back
 - [Configuração do Docker Compose](#configuração-do-docker-compose)
 
 ---
+## Requisitos
+
+**Node v18.20.4**
+
+---
 
 ## Instalação do Front-End
 
