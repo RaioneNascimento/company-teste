@@ -7,10 +7,10 @@ async function bootstrap() {
   app.enableCors();
 
   const config = new DocumentBuilder()
-    .setTitle('Amaro API')
-    .setDescription('The Amaro API description')
+    .setTitle('Company API')
+    .setDescription('The Company API description')
     .setVersion('1.0')
-    .addTag('amaro')
+    .addTag('company')
     .build();
 
   const documentFactory = () => SwaggerModule.createDocument(app, config);

@@ -21,8 +21,8 @@ Este projeto é uma aplicação fullstack com separação entre front-end e back
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/RaioneNascimento/amaro-teste.git
-   cd amaro-teste/frontend
+   git clone https://github.com/RaioneNascimento/company-teste.git
+   cd company-teste/frontend
    ```
 
 2. **Instale as dependências do front-end:**
@@ -56,8 +56,8 @@ Este projeto é uma aplicação fullstack com separação entre front-end e back
 1. **Clone o repositório (se ainda não feito):**
 
    ```bash
-   git clone https://github.com/RaioneNascimento/amaro-teste.git
-   cd amaro-teste/backend
+   git clone https://github.com/RaioneNascimento/company-teste.git
+   cd company-teste/backend
    ```
 
 2. **Instale as dependências do back-end:**
@@ -100,14 +100,14 @@ Este projeto usa Docker Compose para configurar e orquestrar os containers para 
 
 1. **Subir os containers:**
 
-   Para iniciar todos os containers com Docker Compose, use o comando na raiz do backend `amaro-teste/backend`:
+   Para iniciar todos os containers com Docker Compose, use o comando na raiz do backend `company-teste/backend`:
 
    ```bash
    docker-compose up
    ```
 2. **Executar migrations:**
 
-   Para rodar as migrations é necessário estar na pasta raiz do backend `amaro-teste/backend`:
+   Para rodar as migrations é necessário estar na pasta raiz do backend `company-teste/backend`:
    
    ```bash
    npx prisma migrate dev  
