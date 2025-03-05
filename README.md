@@ -1,13 +1,13 @@
 
-# Projeto Fullstack
+# Projeto Fullstack - Teste de Empresa  
 
-Este projeto é uma aplicação fullstack com separação entre front-end e back-end, com as configurações necessárias para inicializar ambos os servidores localmente.
+Este projeto foi desenvolvido como parte de um teste técnico para uma empresa. Ele consiste em uma aplicação fullstack com separação entre front-end e back-end, incluindo as configurações necessárias para inicializar ambos os servidores localmente.  
 
-## Sumário
+## Sumário  
 
-- [Instalação do Front-End](#instalação-do-front-end)
-- [Instalação do Back-End](#instalação-do-back-end)
-- [Configuração do Docker Compose](#configuração-do-docker-compose)
+- [Instalação do Front-End](#instalação-do-front-end)  
+- [Instalação do Back-End](#instalação-do-back-end)  
+- [Configuração do Docker Compose](#configuração-do-docker-compose)  
 
 ---
 ## Requisitos
